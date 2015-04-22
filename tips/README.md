@@ -1,0 +1,2 @@
+# Tips and Tricks
+Większość rzeczy robisz na Pulpicie? Czy zazwyczaj używasz kombinacji **CTRL + C** na klawiaturze, aby skopiować tekst? Czy otwierasz plik w edytorze tekstu, aby zrobić szybkie notatki? Istnieje wiele sposobów, aby wykonać proste zadania, niektóre bardziej skuteczne od innych. Ten rozdział pokaże ci kilka osobliwości Linuxa, Mate i pulpitu Linux Mint, aby lepiej wykorzystać system.

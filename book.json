@@ -1,0 +1,11 @@
+{
+    "title": "Przewodnik użytkownika Linux Mint - edycja MATE",
+    "gitbook": "2.x.x",
+    "plugins": [],
+    "links": {
+        "sidebar": {
+            "Biblioteka ABC Linuksa": "http://abclinuksa.pl"
+        }
+    },
+    "pluginsConfig": {}
+}
