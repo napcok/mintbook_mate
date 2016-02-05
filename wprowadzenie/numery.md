@@ -33,4 +33,6 @@ Do tej pory Linux Mint wykorzystał poniższe nazwy kodowe:
 |16|Petra|
 |17|Qiana|
 |17.1|Rebecca|
+|17.2|Rafaela|
+|17.3|Rosa|
 

@@ -8,5 +8,5 @@ Release Notes, czyli uwagi do wydania, można znaleźć na stronie Linux Mint i 
 
 Zawarte tam są także zrzuty ekranu ostatniego wydania. Oczywiście, o większości nowych funkcjach możesz się dowiedzieć po prostu używając systemu, ale wtedy łatwo niektóre pominąć. To jest najbardziej wiarygodne miejsce, gdzie można o tym przeczytać.
 
-Release Notes dla wydania Linux Mint 17 Qiana  jest dostępna tu:
-http://www.linuxmint.com/rel_qiana_mate.php
+Release Notes dla wydania Linux Mint 17.3 Rosa  jest dostępna tu:
+http://www.linuxmint.com/rel_rosa_mate.php
