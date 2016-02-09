@@ -85,8 +85,8 @@ W **Akcesoriach** znajdziesz następujące aplikacje:
 |Pobranie zrzutu ekranu|Narzędzie do pobrania zrzutu ekranu. Można jest także uruchomić za pomocą klawisza **Print Scrn** aby pobrać rzut całego pulpitu lub przy użyciu **ALT + Print Scrn**, aby pobrać zrzut aktywnego okna.|
 |Edytor Tekstu|Edytor tekstu o nazwie Pluma|
 |Formatowanie kart USB|Formatuje karty USB|
-|Menedżer archiwum|Tworzenie i modyfikowanie archiwów|
-|Zapisywanie obrazów na USB|Narzędzie do tworzenia rozruchowych kart USB|
+|Menedżer archiwów|Tworzenie i modyfikowanie archiwów|
+|Zapisywanie obrazów płyt na USB|Narzędzie do tworzenia rozruchowych kart USB|
 |Notatnik Tomboy|Aplikacja do notatek|
 
 W sekcji **Grafika** znajdziesz następujące aplikacje:
@@ -94,10 +94,9 @@ W sekcji **Grafika** znajdziesz następujące aplikacje:
 |Nazwa|Opis|
 |---|---|
 |Edytor obrazów GIMP|Aplikacja pozwala na modyfikację, konwersję oraz tworzenie obrazów. Najlepszy zamiennik dla Photoshop.|
-|LibreOffice Draw|Twórz i edytuj rysunki, wykresy i znaki graficzne. Część pakietu LibreOffice.|
 |Proste skanowanie|Skanowanie dokumentów|
 |gThumb|Wyświetlanie i organizacja obrazów|
-|Image viewer|Przeglądanie i obracanie obrazów|
+|Przeglądarka obrazów|Przeglądanie i obracanie obrazów|
 
 W  sekcji **Internet** znajdziesz następujące aplikacje:
 
@@ -117,6 +116,7 @@ Sekcja **Biuro** zawiera:
 |LibreOffice|Pakiet biurowy, kompatybilny z otwartym i znormalizowanym formatem ODF. Rozwijany przez „The Document Foundation”|
 |LibreOffice Impress|Twórz i edytuj prezentacje, które będziesz mógł wykorzystać podczas pokazów, spotkań oraz na stronach WWW. Alternatywa dla MS PowerPoint.|
 |LibreOffice Calc|Arkusz kalkulacyjny. Alternatywa dla MS Excell.|
+|LibreOffice Draw|Twórz i edytuj rysunki, wykresy i znaki graficzne. Część pakietu LibreOffice.|
 |LibreOffice Writer|Narzędzie do tworzenia i edycji listów, raportów, dokumentów i stron WWW.|
 |LibreOffice Math|Twórz i edytuj wzory matematyczne i naukowe.|
 |Przeglądarka dokumentów|Wyświetlanie wielostronicowych dokumentów, np. PDF|
